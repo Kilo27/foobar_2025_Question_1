@@ -50,5 +50,10 @@ You’ll analyze several CSV files (each a "table"):
 - Not all answers are directly hinted. Bonus for finding wildcards!
 
 ---
+- Please have only one instance of the executable running per team.
+
+- Please do not close the running instance of the executable.
+
+- Should the executable instance close please inform challenge team immediately!
 
 *Questions? Contact the challenge admin team.*
