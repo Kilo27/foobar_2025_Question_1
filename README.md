@@ -19,7 +19,7 @@ You’ll analyze several CSV files (each a "table"):
 *Note: All datasets are in CSV format. You may use any programming language or tools you prefer for analysis (e.g., Python, R, JavaScript, Excel, Java, C#, or others).*
 
 ## 🕵️‍♀️ Suspicious Indicators Hints
-- **Geolocation anomalies within a day**
+- **Geolocation anomalies**
 - **Exceeded Daily Limits more than 3 times** 
 - **Blacklisted Entities**
 - **Flagged notes**
