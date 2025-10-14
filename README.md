@@ -47,7 +47,7 @@ You’ll analyze several CSV files (each a "table"):
 
 ## ❗ Tips
 - Some rules are subtle. Use both logic and creativity!
-- Not all answers are directly hinted. Bonus for finding wildcards!
+- Not all answers are directly hinted.
 
 ---
 - Please have only one instance of the executable running per team.
