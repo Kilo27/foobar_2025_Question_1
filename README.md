@@ -26,7 +26,7 @@ You’ll analyze several CSV files (each a "table"):
 - **Blacklisted Entities**
 - **Flagged notes**
 - **Routing issues**
-- **Incorrect payments**
+- **Incorrect amount received**
 
 ## 🏆 Scoring
 - Read in csvs and display as a table: **30 pts**
