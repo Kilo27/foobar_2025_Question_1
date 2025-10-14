@@ -3,6 +3,8 @@
 ## 🚀 Background
 *Since 1975, ACI has secured global payments. But fraudsters never sleep...*
 
+Online fraud is deception over the internet to trick people into giving up money !!! 
+
 ## 🎯 Your Mission
 Act as a fraud analyst. Investigate suspicious transactions and protect the Vault (our most critical transaction store).
 
