@@ -29,7 +29,7 @@ You’ll analyze several CSV files (each a "table"):
 - **Incorrect amount received**
 
 ## 🏆 Scoring
-- Read in csvs and display as a table: **30 pts**
+- Read in csvs and display as a table/dataframe : **30 pts**
 - Correct Sender IDs submitted to Vault: **5 pts each**
 - Quality of logic/rules used: **10 pts per correct ID**
 
