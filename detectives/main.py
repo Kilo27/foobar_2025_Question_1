@@ -16,7 +16,7 @@ def get_df():
     return 
 # Display as dataframes/tables
 print("Transactions:")
-print(transactions.head())
+# print(transactions.head())
 
 
 ## Get blacklisted IDs
