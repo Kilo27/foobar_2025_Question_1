@@ -1,10 +1,8 @@
 # This is where the main logic will goes
 
 import pandas as pd
-#import numpy as np
-
-from blacklist import check_blacklist
-
+import numpy as np
+import anomalies
 # Load all CSV files
 transactions = pd.read_csv('detectives/Transactions.csv')
 users = pd.read_csv('detectives/Users.csv')
@@ -17,8 +15,3 @@ def get_df():
 # Display as dataframes/tables
 print("Transactions:")
 print(transactions.head())
-
-
-## Get blacklisted IDs
-blacklisted_ids = check_blacklist()
-print(blacklisted_ids)
